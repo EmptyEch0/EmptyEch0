@@ -2,13 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=220&section=header&text=Likhith%20Kumar%20Mankala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Coffee%20and%20Code&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+LLM-powered+applications+%26+RAG+pipelines;Deploying+CNN%2FBiLSTM%2FTransformer+models+to+production;Elsevier+Preprint+Co-Author+%E2%80%94+94.7%25+SLR+Accuracy;Mentored+250%2B+students+in+AI+%26+Full-Stack+Dev;Coffee+and+Code" alt="Typing SVG" />
+<img src="https://readme-svg-typing-generator.vercel.app/api?lines=Turning+coffee+into+code+since+2023;99+little+bugs+in+the+code%2C+take+one+down...;Building+RAG+pipelines+%26+agentic+AI+systems;94.7%25+accurate+sign+language+model%2C+Elsevier+preprint;git+commit+-m+%22fixed+it+for+real+this+time%22;Shipping+production+APIs+one+commit+at+a+time;There+are+only+10+types+of+people%3A+those+who+get+binary;250%2B+students+mentored%2C+countless+bugs+fixed;It+works+on+my+machine+is+a+valid+deployment+strategy&animation=fade&font=Fira+Code&size=20&color=2E9EF7&background=00000000&width=700&height=50" alt="Typing SVG" />
 
 <br/>
 
 [![Email](https://img.shields.io/badge/-likhithmanakala@gmail.com-2E9EF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhithmanakala@gmail.com)
 [![GitHub](https://img.shields.io/badge/-EmptyEch0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmptyEch0)
 [![LinkedIn](https://img.shields.io/badge/-Likhith%20Kumar%20Mankala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhith-kumar-mankala)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/likhithkumarmankala)
 
 <img src="https://komarev.com/ghpvc/?username=EmptyEch0&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views"/>
 
@@ -80,6 +81,7 @@ Neon · Drizzle ORM
 **Tools & DevOps**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,jenkins,git,githubactions,vercel,figma&theme=dark" />
+
 </td>
 <td align="center" valign="top" width="20%">
 
@@ -90,14 +92,20 @@ Neon · Drizzle ORM
 Qiskit · Kaggle · System Design
 
 </td>
-<td align="center" valign="top" width="20%">
-
-**Design**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/>
-</td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## Quote of the Day
+
+<div align="center">
+
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Daily Quote" />
+
+<sub>New quote every day, courtesy of the internet's collective coding wisdom.</sub>
 
 </div>
 
@@ -110,8 +118,8 @@ Qiskit · Kaggle · System Design
 <div align="center">
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=EmptyEch0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&border_radius=12" alt="stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyEch0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9&border_radius=12" alt="top langs" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EmptyEch0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyEch0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="top langs" height="165"/>
 
 <br/><br/>
 
@@ -123,7 +131,7 @@ Qiskit · Kaggle · System Design
 
 </div>
 
-> If any card above shows a broken image, it's the shared stats API hitting its rate limit — refresh the page in a minute or two and it'll render.
+> If any card above shows a broken image, it's the shared stats API hitting its rate limit — refresh the page in a minute or two and it'll render. A `cache_seconds` parameter has been added above to reduce how often that happens.
 
 ---
 
@@ -133,7 +141,7 @@ Qiskit · Kaggle · System Design
 
 <a href="https://linkedin.com/in/likhith-kumar-mankala"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>&nbsp;
 <a href="https://github.com/EmptyEch0"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>&nbsp;
-<a href="https://kaggle.com/likhith"><img src="https://skillicons.dev/icons?i=kaggle" width="40"/></a>&nbsp;
+<a href="https://kaggle.com/likhithkumarmankala"><img src="https://skillicons.dev/icons?i=kaggle" width="40"/></a>&nbsp;
 <a href="https://instagram.com/just_likhith___"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
 
 <br/><br/>
