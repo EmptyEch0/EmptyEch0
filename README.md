@@ -105,16 +105,25 @@ Qiskit · Kaggle · System Design
 
 ## GitHub Analytics
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:0F2027&height=3&width=100%" width="100%"/>
+
 <div align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=EmptyEch0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7" alt="stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmptyEch0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7" alt="top langs" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EmptyEch0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&border_radius=12" alt="stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyEch0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9&border_radius=12" alt="top langs" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmptyEch0&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7" alt="streak stats" width="90%"/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmptyEch0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=ffffff" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmptyEch0&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7&border_radius=12" alt="streak stats" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmptyEch0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=ffffff&area=true&area_color=2E9EF7" width="90%"/>
 
 </div>
+
+> If any card above shows a broken image, it's the shared stats API hitting its rate limit — refresh the page in a minute or two and it'll render.
 
 ---
 
