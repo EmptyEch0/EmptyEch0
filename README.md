@@ -1,16 +1,134 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**EmptyEch0/EmptyEch0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=220&section=header&text=Likhith%20Kumar%20Mankala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Coffee%20and%20Code&descAlignY=58&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+LLM-powered+applications+%26+RAG+pipelines;Deploying+CNN%2FBiLSTM%2FTransformer+models+to+production;Elsevier+Preprint+Co-Author+%E2%80%94+94.7%25+SLR+Accuracy;Mentored+250%2B+students+in+AI+%26+Full-Stack+Dev;Coffee+and+Code" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![Email](https://img.shields.io/badge/-likhithmanakala@gmail.com-2E9EF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likhithmanakala@gmail.com)
+[![GitHub](https://img.shields.io/badge/-EmptyEch0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmptyEch0)
+[![LinkedIn](https://img.shields.io/badge/-Likhith%20Kumar%20Mankala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhith-kumar-mankala)
+
+<img src="https://komarev.com/ghpvc/?username=EmptyEch0&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views"/>
+
+</div>
+
+<br/>
+
+## About
+
+AI/ML Engineer and Full-Stack Developer building LLM-powered applications, RAG pipelines, agentic AI systems, and production-grade web platforms. Elsevier preprint co-author on sign language recognition (94.7% accuracy). Mentored 250+ students across AI bootcamps and full-stack workshops.
+
+Currently building AI-driven platforms and deep in RAG pipelines, agentic AI, and LLM fine-tuning.
+
+---
+
+## Skills
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" valign="top" width="20%">
+
+**LLMs & Agentic AI**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=openai&theme=dark" width="48"/>
+<br/>
+LangChain · RAG Pipelines · Vector DBs · Prompt Engineering · Fine-tuning
+
+</td>
+<td align="center" valign="top" width="20%">
+
+**Machine Learning**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+<br/>
+CNN · BiLSTM · Transformers · Attention · YOLOv8 · MediaPipe
+
+</td>
+<td align="center" valign="top" width="20%">
+
+**Languages**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,dart,c&theme=dark" />
+
+</td>
+<td align="center" valign="top" width="20%">
+
+**Web & Backend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,fastapi,flask,django,flutter&theme=dark" />
+<br/>
+REST APIs · WebSockets · SSR
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="20%">
+
+**Databases**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark" />
+<br/>
+Neon · Drizzle ORM
+
+</td>
+<td align="center" valign="top" width="20%">
+
+**Tools & DevOps**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,git,githubactions,vercel,figma&theme=dark" />
+</td>
+<td align="center" valign="top" width="20%">
+
+**Research & Data**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="48"/>
+<br/>
+Qiskit · Kaggle · System Design
+
+</td>
+<td align="center" valign="top" width="20%">
+
+**Design**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EmptyEch0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7" alt="stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmptyEch0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7" alt="top langs" width="42%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmptyEch0&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7" alt="streak stats" width="90%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmptyEch0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=ffffff" width="90%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Connect
+
+<a href="https://linkedin.com/in/likhith-kumar-mankala"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>&nbsp;
+<a href="https://github.com/EmptyEch0"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>&nbsp;
+<a href="https://kaggle.com/likhith"><img src="https://skillicons.dev/icons?i=kaggle" width="40"/></a>&nbsp;
+<a href="https://instagram.com/just_likhith___"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0F2027&height=140&section=footer&text=Coffee%20and%20Code&fontSize=24&fontColor=ffffff&fontAlignY=75&animation=fadeIn"/>
+
+</div>
