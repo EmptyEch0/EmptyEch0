@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Likhith%20Kumar%20Mankala&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Coffee%20and%20Code&descAlignY=55&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=5,12,20,25&height=260&section=header&text=Likhith%20Kumar%20Mankala&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI/ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Coffee%20and%20Code&descAlignY=52&descSize=19" width="100%"/>
 
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=Turning+coffee+into+code+since+2023;99+little+bugs+in+the+code%2C+take+one+down...;Building+RAG+pipelines+%26+agentic+AI+systems;94.7%25+accurate+sign+language+model%2C+Elsevier+preprint;git+commit+-m+%22fixed+it+for+real+this+time%22;Shipping+production+APIs+one+commit+at+a+time;There+are+only+10+types+of+people%3A+those+who+get+binary;250%2B+students+mentored%2C+countless+bugs+fixed;It+works+on+my+machine+is+a+valid+deployment+strategy&font=Fira+Code&center=true&width=700&height=50&color=2E9EF7&vCenter=true&size=20&pause=1500" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=blink&color=gradient&customColorList=5,12,20,25&height=6&width=100%" width="100%"/>
 
 <br/>
 
@@ -19,11 +19,11 @@
 
 <br/>
 
-## 🚀 About
+## 🚀 About Me
 
-AI/ML Engineer and Full-Stack Developer building LLM-powered applications, RAG pipelines, agentic AI systems, and production-grade web platforms. Elsevier preprint co-author on sign language recognition (94.7% accuracy). Mentored 250+ students across AI bootcamps and full-stack workshops.
+AI/ML Engineer and Full-Stack Developer who builds LLM-powered applications end to end — RAG pipelines, agentic AI systems, and production-grade web platforms that ship, not just demos. Comfortable moving across the stack: training and deploying deep learning models (CNN, BiLSTM, Transformers), wiring up LLM integrations with LangChain and vector databases, and shipping scalable REST APIs that hold up under real traffic.
 
-Currently building AI-driven platforms and deep in RAG pipelines, agentic AI, and LLM fine-tuning.
+Research co-author on an Elsevier preprint for real-time sign language recognition (94.7% accuracy), and a mentor to 250+ students across AI and full-stack bootcamps — turning research-grade ideas into things people can actually use. Currently deep in RAG pipelines, agentic AI workflows, and LLM fine-tuning, always looking for the shortest path from a good idea to a working deployment.
 
 <br/>
 
@@ -31,96 +31,94 @@ Currently building AI-driven platforms and deep in RAG pipelines, agentic AI, an
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="top" width="20%">
+<br/>
 
-**LLMs & Agentic AI**
+**🧠 LLMs & Agentic AI**
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Llama_3.1_(Ollama)-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-2E9EF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_DBs-2E9EF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-2E9EF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fine--tuning-2E9EF7?style=for-the-badge"/>
+
 <br/><br/>
-<img src="https://cdn.simpleicons.org/openai/2E9EF7" width="48"/>
-<img src="https://cdn.simpleicons.org/langchain/2E9EF7" width="48"/>
+
+**🤖 Machine Learning / Deep Learning**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BiLSTM-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Attention-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv8-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediaPipe-8A2BE2?style=for-the-badge"/>
+
 <br/><br/>
-LangChain · RAG Pipelines<br/>Vector DBs · Prompt Engineering<br/>Fine-tuning
 
-</td>
-<td align="center" valign="top" width="20%">
+**💻 Languages**
 
-**Machine Learning**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
 <br/><br/>
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="40"/>
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40"/>
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40"/>
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40"/>
+
+**🌐 Web & Backend**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/REST_APIs-2E9EF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-2E9EF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SSR-2E9EF7?style=for-the-badge"/>
+
 <br/><br/>
-CNN · BiLSTM · Transformers<br/>Attention · YOLOv8 · MediaPipe
 
-</td>
-<td align="center" valign="top" width="20%">
+**🗄️ Databases**
 
-**Languages**
+<img src="https://img.shields.io/badge/PostgreSQL_(Neon)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logoColor=black"/>
+
 <br/><br/>
-<img src="https://cdn.simpleicons.org/python/3776AB" width="40"/>
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="40"/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40"/>
-<img src="https://cdn.simpleicons.org/openjdk/437291" width="40"/>
-<img src="https://cdn.simpleicons.org/dart/0175C2" width="40"/>
-<img src="https://cdn.simpleicons.org/c/A8B9CC" width="40"/>
 
-</td>
-<td align="center" valign="top" width="20%">
+**⚙️ Tools & DevOps**
 
-**Web & Backend**
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
 <br/><br/>
-<img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="40"/>
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/>
-<img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40"/>
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="40"/>
-<img src="https://cdn.simpleicons.org/flask/ffffff" width="40"/>
-<img src="https://cdn.simpleicons.org/django/092E20" width="40"/>
-<img src="https://cdn.simpleicons.org/flutter/02569B" width="40"/>
-<br/><br/>
-REST APIs · WebSockets · SSR
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="20%">
+**🔬 Research & Data**
 
-**Databases**
-<br/><br/>
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40"/>
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="40"/>
-<img src="https://cdn.simpleicons.org/mongodb/47A248" width="40"/>
-<img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40"/>
-<br/><br/>
-Neon · Drizzle ORM
-
-</td>
-<td align="center" valign="top" width="20%">
-
-**Tools & DevOps**
-<br/><br/>
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="40"/>
-<img src="https://cdn.simpleicons.org/jenkins/D24939" width="40"/>
-<img src="https://cdn.simpleicons.org/git/F05032" width="40"/>
-<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40"/>
-<img src="https://cdn.simpleicons.org/vercel/ffffff" width="40"/>
-<img src="https://cdn.simpleicons.org/figma/F24E1E" width="40"/>
-
-</td>
-<td align="center" valign="top" width="20%">
-
-**Research & Data**
-<br/><br/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="40"/>
-<img src="https://cdn.simpleicons.org/qiskit/6929C4" width="40"/>
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40"/>
-<br/><br/>
-System Design
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-2E9EF7?style=for-the-badge"/>
 
 </div>
 
@@ -168,6 +166,6 @@ System Design
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Coffee%20and%20Code&fontSize=26&fontColor=ffffff&fontAlignY=75&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=5,12,20,25&height=150&section=footer&text=Coffee%20and%20Code&fontSize=26&fontColor=ffffff&fontAlignY=75&animation=fadeIn"/>
 
 </div>
