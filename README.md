@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://drive.google.com/uc?export=view&id=1RWtXjyfGJp5TZ-0MZ2jPYN08Q2V9lzNR" width="100%"/>
+<img src="https://drive.google.com/uc?export=view&id=1RWtXjyfGJp5TZ-0MZ2jPYN08Q2V9lzNR" width="65%"/>
 
-<br/>
+<br/><br/>
 
-<a href="mailto:likhithmanakala@gmail.com"><img src="https://img.shields.io/badge/-likhithmanakala@gmail.com-2E9EF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027"/></a>
-<a href="https://github.com/EmptyEch0"><img src="https://img.shields.io/badge/-EmptyEch0-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027"/></a>
-<a href="https://linkedin.com/in/likhith-kumar-mankala"><img src="https://img.shields.io/badge/-Likhith%20Kumar%20Mankala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027"/></a>
-<a href="https://www.kaggle.com/likhithkumarmankala"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0F2027"/></a>
+<a href="mailto:likhithmanakala@gmail.com"><img src="https://img.shields.io/badge/-likhithmanakala@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://github.com/EmptyEch0"><img src="https://img.shields.io/badge/-EmptyEch0-000000?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+<a href="https://www.linkedin.com/in/likhithmankala/"><img src="https://img.shields.io/badge/-Likhith%20Kumar%20Mankala-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://www.kaggle.com/likhithkumarmankala"><img src="https://img.shields.io/badge/-Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/></a>
 
 <br/><br/>
 
@@ -138,8 +138,8 @@ Research co-author on an Elsevier preprint for real-time sign language recogniti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EmptyEch0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyEch0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="top langs" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=EmptyEch0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyEch0&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=2E9EF7&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="top langs" height="165"/>
 
 </div>
 
@@ -149,7 +149,7 @@ Research co-author on an Elsevier preprint for real-time sign language recogniti
 
 ## 🤝 Connect
 
-<a href="https://linkedin.com/in/likhith-kumar-mankala"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/likhithmankala/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/></a>&nbsp;&nbsp;
 <a href="https://github.com/EmptyEch0"><img src="https://cdn.simpleicons.org/github/ffffff" width="40"/></a>&nbsp;&nbsp;
 <a href="https://kaggle.com/likhithkumarmankala"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/just_likhith___"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>
