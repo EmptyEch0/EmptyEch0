@@ -1,3 +1,7 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td bgcolor="#000000" align="left" style="background-color:#000000; padding: 20px;">
+
 <div align="center">
 
 <!-- Header Banner -->
@@ -13,7 +17,7 @@
 
 <br/><br/>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views counter -->
 <img src="https://komarev.com/ghpvc/?username=EmptyEch0&label=Profile%20Views&color=000000&style=flat-square" alt="profile views"/>
 
 </div>
@@ -34,41 +38,43 @@ AI/ML Engineer and Full-Stack Developer building LLM-powered applications end-to
 
 ## Skills & Expertise
 
-<img src="https://drive.google.com/uc?export=view&id=1G0s_S5zRIA6GjIc25ztATWbhdmuqH0mF" align="left" width="260" style="margin-right: 20px; margin-bottom: 10px; border-radius: 8px;"/>
+<!-- Left Aligned Image -->
+<img src="https://drive.google.com/uc?export=view&id=1G0s_S5zRIA6GjIc25ztATWbhdmuqH0mF" align="left" width="270" style="margin-right: 25px; margin-bottom: 20px; border-radius: 8px;"/>
 
-**LLMs & Agentic AI**  
-OpenAI API, Gemini, LangChain, Llama 3.1 (Ollama), RAG Pipelines, Vector DBs, Prompt Engineering, Fine-Tuning
+### LLMs & Agentic AI
+`OpenAI API` • `Gemini` • `LangChain` • `Llama 3.1 (Ollama)` • `RAG Pipelines` • `Vector DBs` • `Prompt Engineering` • `Fine-Tuning`
 
-<br/>
+<br/><br/>
 
-**Machine Learning & Deep Learning**  
-PyTorch, TensorFlow, Keras, OpenCV, Scikit-Learn, CNN, BiLSTM, Transformers, Attention, YOLOv8, MediaPipe
+### Machine Learning & Deep Learning
+`PyTorch` • `TensorFlow` • `Keras` • `OpenCV` • `Scikit-Learn` • `CNN` • `BiLSTM` • `Transformers` • `Attention` • `YOLOv8` • `MediaPipe`
 
-<br/>
+<br/><br/>
 
-**Languages**  
-Python, TypeScript, JavaScript, Java, SQL, C, Dart
+### Languages
+`Python` • `TypeScript` • `JavaScript` • `Java` • `SQL` • `C` • `Dart`
 
 <br clear="left"/>
-
-**Web & Backend**  
-Next.js, React, NestJS, FastAPI, Flask, Django, Flutter, REST APIs, WebSockets, SSR
-
 <br/>
 
-**Databases & ORM**  
-PostgreSQL (Neon), MySQL, MongoDB, Supabase, Drizzle ORM
+### Web & Backend
+`Next.js` • `React` • `NestJS` • `FastAPI` • `Flask` • `Django` • `Flutter` • `REST APIs` • `WebSockets` • `SSR`
 
-<br/>
+<br/><br/>
 
-**Tools, DevOps & Research**  
-Docker, Jenkins, Git, GitHub Actions, Vercel, Figma, Jupyter, Qiskit, Kaggle, System Design
+### Databases & ORM
+`PostgreSQL (Neon)` • `MySQL` • `MongoDB` • `Supabase` • `Drizzle ORM`
 
-<br/>
+<br/><br/>
 
-## Connect
+### Tools, DevOps & Research
+`Docker` • `Jenkins` • `Git` • `GitHub Actions` • `Vercel` • `Figma` • `Jupyter` • `Qiskit` • `Kaggle` • `System Design`
+
+<br/><br/>
 
 <div align="center">
+
+## Connect
 
 <a href="https://www.linkedin.com/in/likhithmankala/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36"/></a>&nbsp;&nbsp;
 <a href="https://github.com/EmptyEch0"><img src="https://cdn.simpleicons.org/github/ffffff" width="36"/></a>&nbsp;&nbsp;
@@ -87,3 +93,7 @@ Docker, Jenkins, Git, GitHub Actions, Vercel, Figma, Jupyter, Qiskit, Kaggle, Sy
 <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Daily Quote" />
 
 </div>
+
+</td>
+</tr>
+</table>
