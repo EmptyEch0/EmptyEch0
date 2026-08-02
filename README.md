@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-<!-- Contact Badges (Pitch Black Minimal) -->
+<!-- Contact Badges (Pitch Black Theme) -->
 <a href="mailto:likhithmanakala@gmail.com"><img src="https://img.shields.io/badge/-likhithmanakala@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 <a href="https://github.com/EmptyEch0"><img src="https://img.shields.io/badge/-EmptyEch0-000000?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
 <a href="https://www.linkedin.com/in/likhithmankala/"><img src="https://img.shields.io/badge/-Likhith%20Kumar%20Mankala-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
@@ -22,61 +22,53 @@
 
 ---
 
-### 🤫 Silence & Code Philosophy
+## About Me
 
-> *"Work in silence; let your code make the noise."*  
-> *"The quieter you become, the more clearly you can architect complex intelligence."*  
-> *"In the quiet depths of focus, real engineering takes form."*
+I am an **AI/ML Engineer and Full-Stack Developer** building LLM-powered applications end-to-end — RAG pipelines, agentic AI workflows, and production-grade web platforms that ship.
 
----
-
-## 🚀 About Me
-
-I am an **AI/ML Engineer and Full-Stack Developer** building LLM-powered applications end-to-end — RAG pipelines, agentic AI workflows, and production-grade web platforms that ship to production.
-
-- 🧠 **AI & ML Research:** Co-author of an Elsevier preprint for real-time sign language recognition (**94.7% accuracy**).
-- 👨‍🏫 **Mentorship:** Mentored **250+ students** across AI and full-stack bootcamps.
-- ⚡ **Current Focus:** RAG architectures, Agentic AI systems, LLM fine-tuning, and scalable microservices.
+- **AI & ML Research:** Co-author of an Elsevier preprint for real-time sign language recognition (**94.7% accuracy**).
+- **Mentorship:** Mentored **250+ students** across AI and full-stack bootcamps.
+- **Current Focus:** RAG architectures, Agentic AI systems, LLM fine-tuning, and scalable microservices.
 
 <br/>
 
-## 🛠️ Skills & Expertise
+## Skills & Expertise
 
-<!-- Floating Left Image (Flows beside top skills, lower skills break underneath) -->
-<img src="https://drive.google.com/uc?export=view&id=1G0s_S5zRIA6GjIc25ztATWbhdmuqH0mF" align="left" width="290" style="margin-right: 25px; margin-bottom: 15px; border-radius: 12px;"/>
+<!-- Left Aligned Image (Floats beside top skills, lower categories flow underneath) -->
+<img src="https://drive.google.com/uc?export=view&id=1G0s_S5zRIA6GjIc25ztATWbhdmuqH0mF" align="left" width="280" style="margin-right: 25px; margin-bottom: 15px; border-radius: 8px;"/>
 
-### 🧠 LLMs & Agentic AI
+### LLMs & Agentic AI
 <img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Llama_3.1-000000?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/RAG_Pipelines-2E9EF7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vector_DBs-2E9EF7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Prompt_Engineering-2E9EF7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Fine--Tuning-2E9EF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Fine--Tuning-000000?style=for-the-badge"/>
 
 <br/>
 
-### 🤖 Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/BiLSTM-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Attention-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/YOLOv8-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/MediaPipe-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/BiLSTM-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Attention-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge"/>
 
 <br/>
 
-### 💻 Languages
+### Languages
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge"/>
 
 <br clear="left"/>
 <br/>
 
-### 🌐 Web & Backend
+### Web & Backend
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/REST_APIs-2E9EF7?style=for-the-badge"/> <img src="https://img.shields.io/badge/WebSockets-2E9EF7?style=for-the-badge"/> <img src="https://img.shields.io/badge/SSR-2E9EF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/SSR-000000?style=for-the-badge"/>
 
 <br/>
 
-### 🗄️ Databases & ORM
+### Databases & ORM
 <img src="https://img.shields.io/badge/PostgreSQL_(Neon)-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Drizzle_ORM-000000?style=for-the-badge"/>
 
 <br/>
 
-### ⚙️ Tools, DevOps & Research
+### Tools, DevOps & Research
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Qiskit-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/System_Design-2E9EF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Qiskit-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge"/>
 
 <br/>
 
@@ -100,8 +92,15 @@ I am an **AI/ML Engineer and Full-Stack Developer** building LLM-powered applica
 <a href="https://kaggle.com/likhithkumarmankala"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="36"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/just_likhith___"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="36"/></a>
 
+</div>
+
 <br/><br/>
 
-<sub>*Built in silence, engineered for impact.* ☕</sub>
+---
+
+<!-- Auto-Updating Daily Quote Card (Updates every 24h) -->
+<div align="center">
+
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Daily Quote" />
 
 </div>
