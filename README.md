@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=5,12,20,25&height=260&section=header&text=Likhith%20Kumar%20Mankala&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI/ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Coffee%20and%20Code&descAlignY=52&descSize=19" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=blink&color=gradient&customColorList=5,12,20,25&height=6&width=100%" width="100%"/>
+<img src="https://drive.google.com/uc?export=view&id=1RWtXjyfGJp5TZ-0MZ2jPYN08Q2V9lzNR" width="100%"/>
 
 <br/>
 
@@ -143,14 +141,6 @@ Research co-author on an Elsevier preprint for real-time sign language recogniti
 <img src="https://github-readme-stats.vercel.app/api?username=EmptyEch0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmptyEch0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="top langs" height="165"/>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmptyEch0&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7&border_radius=12" alt="streak stats" width="90%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmptyEch0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=ffffff&area=true&area_color=2E9EF7" width="90%"/>
-
 </div>
 
 <br/>
@@ -166,6 +156,6 @@ Research co-author on an Elsevier preprint for real-time sign language recogniti
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=5,12,20,25&height=150&section=footer&text=Coffee%20and%20Code&fontSize=26&fontColor=ffffff&fontAlignY=75&animation=fadeIn"/>
+<sub>Coffee and Code ☕</sub>
 
 </div>
