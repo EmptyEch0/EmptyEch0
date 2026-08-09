@@ -7,9 +7,12 @@
 
 <br/><br/>
 
-<!-- Animated typing intro — this is the only *real* animation GitHub allows (pure SVG, no hover/CSS needed) -->
+<!-- Name — kept static/settled, not animated -->
+### Likhith Kumar Mankala
+
+<!-- Animated typing roles — this is the only *real* animation GitHub allows (pure SVG, no hover/CSS needed) -->
 <a href="https://github.com/EmptyEch0">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Likhith+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+RAG+pipelines+%26+Agentic+AI+systems;Branch+out.+Merge+greatness." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLM+Engineer+%7C+Applied+AI;Full-Stack+Developer;Building+RAG+pipelines+%26+Agentic+AI+systems;Branch+out.+Merge+greatness." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -28,17 +31,6 @@
   <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
 </a>
 
-<br/><br/>
-
-<!-- Profile Views counter -->
-<img src="https://komarev.com/ghpvc/?username=EmptyEch0&label=Profile%20Views&color=000000&style=for-the-badge" alt="profile views"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/-STARS%2011-000000?style=flat-square&labelColor=000000&color=1a1a1a"/>
-<img src="https://img.shields.io/badge/-FORKS%200-000000?style=flat-square&labelColor=000000&color=1a1a1a"/>
-<img src="https://img.shields.io/badge/-FOLLOWERS%203-000000?style=flat-square&labelColor=000000&color=1a1a1a"/>
-
 </td>
 </tr>
 </table>
@@ -47,11 +39,9 @@
 
 ## About Me
 
-AI/ML Engineer and Full-Stack Developer building LLM-powered applications end-to-end — RAG pipelines, agentic AI workflows, and production-grade web platforms that ship.
+I'm an AI Engineer who works across the full stack of building intelligent systems — from LLMs, agentic AI, and retrieval-augmented generation, to the production infrastructure that gets them in front of real users. I like taking an idea from a rough architecture diagram all the way to a deployed system people actually rely on, whether that's an AI assistant reasoning over documents, an automated agent pipeline, or the backend holding it all together.
 
-- **AI & ML Research:** Co-author of an Elsevier preprint for real-time sign language recognition (**94.7% accuracy**).
-- **Mentorship:** Mentored **250+ students** across AI and full-stack bootcamps.
-- **Current Focus:** RAG architectures, Agentic AI systems, LLM fine-tuning, and scalable microservices.
+Alongside building, I spend a good amount of time on the research and people side of things — co-authoring papers, writing about agentic AI, and mentoring students who are just getting into this space. What keeps me interested is the same thing every time: taking something that only works in theory and making it work reliably, at scale, for someone else.
 
 <br/>
 
@@ -59,29 +49,27 @@ AI/ML Engineer and Full-Stack Developer building LLM-powered applications end-to
 
 <img align="left" width="270" style="margin-right: 25px; margin-bottom: 20px; border-radius: 8px;" src="https://drive.google.com/uc?export=view&id=1G0s_S5zRIA6GjIc25ztATWbhdmuqH0mF"/>
 
-### LLMs & Agentic AI
+**LLMs & Agentic AI**
+<br/>
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=8E75FF)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=1C3C3C)
 ![Ollama](https://img.shields.io/badge/Llama_3.1_(Ollama)-000000?style=flat-square&logo=ollama&logoColor=white)
-
+<br/>
 `RAG Pipelines` • `Vector DBs` • `Prompt Engineering` • `Fine-Tuning`
-
-<br/><br/>
-
-### Machine Learning & Deep Learning
+<br/>
+**Machine Learning & Deep Learning**
+<br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat-square&logo=keras&logoColor=D00000)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=5C3EE8)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-
-`CNN` • `BiLSTM` • `Transformers` • `Attention` • `YOLOv8` • `MediaPipe`
-
-<br clear="left"/>
 <br/>
-
-### Languages
+`CNN` • `BiLSTM` • `Transformers` • `Attention` • `YOLOv8` • `MediaPipe`
+<br clear="left"/>
+**Languages**
+<br/>
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -89,10 +77,9 @@ AI/ML Engineer and Full-Stack Developer building LLM-powered applications end-to
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=A8B9CC)
 ![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=0175C2)
-
 <br/>
-
-### Web & Backend
+**Web & Backend**
+<br/>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=E0234E)
@@ -100,21 +87,19 @@ AI/ML Engineer and Full-Stack Developer building LLM-powered applications end-to
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=092E20)
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B)
-
-`REST APIs` • `WebSockets` • `SSR`
-
 <br/>
-
-### Databases & ORM
+`REST APIs` • `WebSockets` • `SSR`
+<br/>
+**Databases & ORM**
+<br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(Neon)-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=3FCF8E)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-000000?style=flat-square&logo=drizzle&logoColor=C5F74F)
-
 <br/>
-
-### Tools, DevOps & Research
+**Tools, DevOps & Research**
+<br/>
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
 ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=D24939)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
@@ -124,10 +109,10 @@ AI/ML Engineer and Full-Stack Developer building LLM-powered applications end-to
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626)
 ![Qiskit](https://img.shields.io/badge/Qiskit-000000?style=flat-square&logo=qiskit&logoColor=6929C4)
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=20BEFF)
-
+<br/>
 `System Design`
 
-<br/><br/>
+<br/>
 
 ---
 
