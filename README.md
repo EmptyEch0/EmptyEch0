@@ -3,7 +3,7 @@
 <td bgcolor="#000000" align="center" style="background-color:#000000; padding: 20px;">
 
 <!-- Header Banner -->
-<img src="[https://drive.google.com/uc?export=view&id=1RWtXjyfGJp5TZ-0MZ2jPYN08Q2V9lzNR](https://drive.google.com/file/d/1RWtXjyfGJp5TZ-0MZ2jPYN08Q2V9lzNR/view?usp=sharing)" width="75%"/>
+<img src="https://drive.google.com/uc?export=view&id=1RWtXjyfGJp5TZ-0MZ2jPYN08Q2V9lzNR" width="75%"/>
 
 <br/>
 
