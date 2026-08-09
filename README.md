@@ -1,23 +1,24 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td bgcolor="#000000" align="center" style="background-color:#000000; padding: 30px;">
+<td bgcolor="#000000" align="center" style="background-color:#000000; padding: 20px;">
 
 <!-- Header Banner -->
 <img src="https://drive.google.com/uc?export=view&id=1RWtXjyfGJp5TZ-0MZ2jPYN08Q2V9lzNR" width="75%"/>
 
-<br/><br/>
+<br/>
 
 <!-- Name — kept static/settled, not animated -->
-### Likhith Kumar Mankala
+**Likhith Kumar Mankala**
+<br/>
 
 <!-- Animated typing roles — this is the only *real* animation GitHub allows (pure SVG, no hover/CSS needed) -->
 <a href="https://github.com/EmptyEch0">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLM+Engineer+%7C+Applied+AI;Full-Stack+Developer;Building+RAG+pipelines+%26+Agentic+AI+systems;Branch+out.+Merge+greatness." alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- Contact Links — rebuilt so every logo actually renders on a pure-black badge -->
+<!-- Contact Links — LinkedIn now uses a white mark (the blue mark wasn't rendering through shields on some caches) -->
 <a href="mailto:likhithmanakala@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
@@ -25,7 +26,7 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 <a href="https://www.linkedin.com/in/likhithmankala/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 <a href="https://www.kaggle.com/likhithkumarmankala">
   <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
