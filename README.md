@@ -18,7 +18,7 @@
 
 <br/>
 
-<!-- Contact Links — LinkedIn now uses a white mark (the blue mark wasn't rendering through shields on some caches) -->
+<!-- Contact Links -->
 <a href="mailto:likhithmanakala@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
@@ -40,11 +40,13 @@
 
 ## About Me
 
+<img align="right" width="260" style="margin-left: 25px; margin-bottom: 15px; border-radius: 12px;" src="https://i.pinimg.com/736x/bb/ef/2c/bbef2c55cb26ddc56bfde49dc25b33b8.jpg"/>
+
 I'm an AI Engineer who works across the full stack of building intelligent systems — from LLMs, agentic AI, and retrieval-augmented generation, to the production infrastructure that gets them in front of real users. I like taking an idea from a rough architecture diagram all the way to a deployed system people actually rely on, whether that's an AI assistant reasoning over documents, an automated agent pipeline, or the backend holding it all together.
 
 Alongside building, I spend a good amount of time on the research and people side of things — co-authoring papers, writing about agentic AI, and mentoring students who are just getting into this space. What keeps me interested is the same thing every time: taking something that only works in theory and making it work reliably, at scale, for someone else.
 
-<br/>
+<br clear="right"/>
 
 ## Skills & Expertise
 
@@ -132,9 +134,15 @@ Alongside building, I spend a good amount of time on the research and people sid
 
 ---
 
-<!-- Auto-Updating Daily Programming Quote (Refreshes every 24h) -->
+<!-- Fun Fact of the Day — text between the markers is replaced automatically once every 24h by the GitHub Action in .github/workflows/update-fun-fact.yml -->
 <div align="center">
-<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Daily Quote" />
+
+🧠 **Fun Fact of the Day**
+
+<!--FACT:START-->
+Honey never spoils — archaeologists have found 3,000-year-old pots of honey in ancient Egyptian tombs that are still perfectly edible.
+<!--FACT:END-->
+
 </div>
 
 <br/>
