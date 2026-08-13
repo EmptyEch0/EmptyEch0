@@ -50,29 +50,31 @@ Alongside building, I spend a good amount of time on the research and people sid
 
 ## Skills & Expertise
 
-<img align="left" width="270" style="margin-right: 25px; margin-bottom: 20px; border-radius: 8px;" src="https://drive.google.com/uc?export=view&id=1G0s_S5zRIA6GjIc25ztATWbhdmuqH0mF"/>
+<table>
+<tr>
+<td width="270" valign="top">
+<img width="270" style="border-radius: 8px;" src="https://drive.google.com/uc?export=view&id=1G0s_S5zRIA6GjIc25ztATWbhdmuqH0mF"/>
+</td>
+<td valign="top">
 
 **LLMs & Agentic AI**
-<br/>
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=8E75FF)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=1C3C3C)
 ![Ollama](https://img.shields.io/badge/Llama_3.1_(Ollama)-000000?style=flat-square&logo=ollama&logoColor=white)
-<br/>
+
 `RAG Pipelines` • `Vector DBs` • `Prompt Engineering` • `Fine-Tuning`
-<br/>
+
 **Machine Learning & Deep Learning**
-<br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat-square&logo=keras&logoColor=D00000)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=5C3EE8)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-<br/>
+
 `CNN` • `BiLSTM` • `Transformers` • `Attention` • `YOLOv8` • `MediaPipe`
-<br clear="left"/>
+
 **Languages**
-<br/>
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -80,9 +82,8 @@ Alongside building, I spend a good amount of time on the research and people sid
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=A8B9CC)
 ![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=0175C2)
-<br/>
+
 **Web & Backend**
-<br/>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=E0234E)
@@ -90,19 +91,17 @@ Alongside building, I spend a good amount of time on the research and people sid
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=092E20)
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B)
-<br/>
+
 `REST APIs` • `WebSockets` • `SSR`
-<br/>
+
 **Databases & ORM**
-<br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_(Neon)-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=3FCF8E)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-000000?style=flat-square&logo=drizzle&logoColor=C5F74F)
-<br/>
+
 **Tools, DevOps & Research**
-<br/>
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
 ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=D24939)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
@@ -112,8 +111,12 @@ Alongside building, I spend a good amount of time on the research and people sid
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626)
 ![Qiskit](https://img.shields.io/badge/Qiskit-000000?style=flat-square&logo=qiskit&logoColor=6929C4)
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=20BEFF)
-<br/>
+
 `System Design`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
