@@ -19,6 +19,9 @@
 <br/>
 
 <!-- Contact Links -->
+<a href="https://likhith.online">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+</a>
 <a href="mailto:likhithmanakala@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
@@ -26,7 +29,7 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 <a href="https://www.linkedin.com/in/likhithmankala/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOTM3IDEuNjM3LTEuNzEgMy4zNy0xLjcxIDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA0Ljg5MnY2LjMwNHpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D"/>
 </a>
 <a href="https://www.kaggle.com/likhithkumarmankala">
   <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
@@ -45,6 +48,8 @@
 I'm an AI Engineer who works across the full stack of building intelligent systems — from LLMs, agentic AI, and retrieval-augmented generation, to the production infrastructure that gets them in front of real users. I like taking an idea from a rough architecture diagram all the way to a deployed system people actually rely on, whether that's an AI assistant reasoning over documents, an automated agent pipeline, or the backend holding it all together.
 
 Alongside building, I spend a good amount of time on the research and people side of things — co-authoring papers, writing about agentic AI, and mentoring students who are just getting into this space. What keeps me interested is the same thing every time: taking something that only works in theory and making it work reliably, at scale, for someone else.
+
+🌐 See my work at **[likhith.online](https://likhith.online)**
 
 <br clear="right"/>
 
@@ -126,7 +131,8 @@ Alongside building, I spend a good amount of time on the research and people sid
 
 ## Connect
 
-<a href="https://www.linkedin.com/in/likhithmankala/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" title="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://likhith.online"><img src="https://img.icons8.com/ios-filled/100/FFFFFF/globe.png" width="36" title="Portfolio — likhith.online"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/likhithmankala/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" title="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://github.com/EmptyEch0"><img src="https://cdn.simpleicons.org/github/ffffff" width="36" title="GitHub"/></a>&nbsp;&nbsp;
 <a href="https://kaggle.com/likhithkumarmankala"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="36" title="Kaggle"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/just_likhith___"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" title="Instagram"/></a>
@@ -143,7 +149,7 @@ Alongside building, I spend a good amount of time on the research and people sid
 🧠 **Fun Fact of the Day**
 
 <!--FACT:START-->
-Honey never spoils — archaeologists have found 3,000-year-old pots of honey in ancient Egyptian tombs that are still perfectly edible.
+Octopuses have three hearts and blue blood.
 <!--FACT:END-->
 
 </div>
