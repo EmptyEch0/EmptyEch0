@@ -149,7 +149,7 @@ Alongside building, I spend a good amount of time on the research and people sid
 🧠 **Fun Fact of the Day**
 
 <!--FACT:START-->
-Octopuses have three hearts and blue blood.
+A day on Venus is longer than a year on Venus.
 <!--FACT:END-->
 
 </div>
