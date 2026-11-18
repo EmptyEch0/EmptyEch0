@@ -149,7 +149,7 @@ Alongside building, I spend a good amount of time on the research and people sid
 🧠 **Fun Fact of the Day**
 
 <!--FACT:START-->
-A day on Venus is longer than a year on Venus.
+Bananas are berries, but strawberries aren't.
 <!--FACT:END-->
 
 </div>
