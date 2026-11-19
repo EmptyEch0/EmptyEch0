@@ -149,7 +149,7 @@ Alongside building, I spend a good amount of time on the research and people sid
 🧠 **Fun Fact of the Day**
 
 <!--FACT:START-->
-Bananas are berries, but strawberries aren't.
+The first computer 'bug' was a real moth found stuck in a Harvard Mark II relay in 1947.
 <!--FACT:END-->
 
 </div>
