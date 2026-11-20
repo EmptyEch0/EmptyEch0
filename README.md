@@ -149,7 +149,7 @@ Alongside building, I spend a good amount of time on the research and people sid
 🧠 **Fun Fact of the Day**
 
 <!--FACT:START-->
-The first computer 'bug' was a real moth found stuck in a Harvard Mark II relay in 1947.
+Sharks existed before trees — by roughly 50 million years.
 <!--FACT:END-->
 
 </div>
