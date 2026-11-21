@@ -149,7 +149,7 @@ Alongside building, I spend a good amount of time on the research and people sid
 🧠 **Fun Fact of the Day**
 
 <!--FACT:START-->
-Sharks existed before trees — by roughly 50 million years.
+The word 'robot' comes from the Czech word 'robota', meaning forced labour.
 <!--FACT:END-->
 
 </div>
